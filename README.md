@@ -1,2 +1,2 @@
 # hello-word
-startung a new one
+starting a new one
